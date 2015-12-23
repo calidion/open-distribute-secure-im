@@ -25,6 +25,7 @@
 2. socket.io
 3. electron
 4. HTML+CSS
+5. P2P 网络传播技术
 
 
 预期完成时间：2〜5年
